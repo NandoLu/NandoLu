@@ -3,16 +3,39 @@
 👋 Olá! Meu nome é Luiz Fernando Balbino e sou apaixonado por desenvolvimento.
 
 ## 📖 Sobre mim
-- 🎓 **Formado em** Técnico em Informática pelo **IFSULDEMINAS**  
-- 💻 **Graduando em** Engenharia de Software na **FIAP - Av. Paulista**  
+- 🎓 **Formado em** Técnico em Informática pelo **IFSULDEMINAS**  
+- 💻 **Graduando em** Engenharia de Software na **FIAP - Av. Paulista**  
 
 ---
 
 ## 🔧 Tecnologias e Ferramentas
-- Programação: Python, Java, JavaScript  
-- Bancos de dados: MySQL, PostgreSQL
-- Versionamento: Git & GitHub  
-- Frameworks: React
+
+Você pode me encontrar utilizando as seguintes tecnologias e ferramentas:
+
+### Linguagens de Programação
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</p>
+
+### Frameworks & Bibliotecas
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+</p>
+
+### Bancos de Dados
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+</p>
+
+### Versionamento
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</p>
 
 ---
 
