@@ -18,8 +18,8 @@
 
 ## 📊 Minhas Estatísticas no GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NandoLu&show_icons=true&theme=radical)](https://github.com/NandoLu)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NandoLu&layout=compact&theme=radical)](https://github.com/NandoLu)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NandoLu&show_icons=true&theme=dark)](https://github.com/NandoLu)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NandoLu&layout=compact&theme=dark)](https://github.com/NandoLu)
 
 ---
 
