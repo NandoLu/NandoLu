@@ -62,7 +62,7 @@ Aqui estão minhas redes sociais e contato:
   <a href="https://www.linkedin.com/in/luiz-fernando-balbino-2336a1349/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border: none;">
   </a>
-  <a href="https://www.instagram.com/luizfernandobalbino_/" target="_blank" style="text-decoration: none;">
+  <a href="https://www.instagram.com/luiz.fernando.balbino/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="border: none;">
   </a>
   <a href="mailto:nandoluizprimeiro@gmail.com" target="_blank" style="text-decoration: none;">
