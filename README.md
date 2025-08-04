@@ -1,64 +1,40 @@
 # Luiz Fernando Balbino
 
-- 🎓 Sou formado em **Técnico em Informática** pelo **IFSULDEMINAS** e atualmente estou Graduando em **Engenharia de Software** na **FIAP**, tenho grande interesse em desenvolvimento e em aprender novas tecnologias. Sou fascinado em desenvolver soluções próprias.
+🎓 Sou formado em **Técnico em Informática** pelo **IFSULDEMINAS** e atualmente estou graduando em **Engenharia de Software** na **FIAP**. Tenho grande interesse em desenvolvimento e sou fascinado por criar soluções próprias. Estou sempre em busca de aprender novas tecnologias — atualmente, estou me aprofundando em temas como **React Native**, **UX Design**, **Power BI**, **Cibersegurança** e **Pydantic AI** através da plataforma Alura.
+
+---
 
 ## 🔧 Tecnologias e Ferramentas
 
-<div style="width: 100%; overflow-x: auto;">
-  <table>
-    <thead>
-      <tr>
-        <th align="center">Habilidades Principais</th>
-        <th align="center">Ferramentas e Outras</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center">
-          <h3>Linguagens de Programação</h3>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-        </td>
-        <td align="center">
-          <h3>Frameworks & Bibliotecas</h3>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <h3>Bancos de Dados</h3>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-        </td>
-        <td align="center">
-          <h3>Versionamento</h3>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+**💻 Linguagens de Programação**  
+Utilizo **Python** e **JavaScript** como base para meus projetos, seja em desenvolvimento web, automações ou análise de dados.
 
+**⚙️ Frameworks & Bibliotecas**  
+Trabalho com **React** para construção de interfaces dinâmicas e responsivas. Também estou explorando o **React Native** com **Expo** para desenvolvimento mobile.
+
+**🗄️ Bancos de Dados**  
+Tenho domínio em **MySQL** e **PostgreSQL**.
+
+**🔀 Versionamento**  
+Utilizo **Git** e **GitHub** para controle de versão e colaboração em projetos.
+
+---
 
 ## 📊 Minhas Estatísticas no GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NandoLu&show_icons=true&theme=dark)](https://github.com/NandoLu)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NandoLu&show_icons=true&theme=dark)](https://github.com/NandoLu)  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NandoLu&layout=compact&theme=dark)](https://github.com/NandoLu)
 
+---
 
 ## 📫 Como me encontrar
 
-Aqui estão minhas redes sociais e contato:
+Você pode me encontrar e entrar em contato pelas redes abaixo:
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/luiz-fernando-balbino-2336a1349/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border: none;">
-  </a>
-  <a href="https://www.instagram.com/luiz.fernando.balbino/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="border: none;">
-  </a>
-  <a href="mailto:nandoluizprimeiro@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border: none;">
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-fernando-balbino-2336a1349/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luiz.fernando.balbino/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandoluizprimeiro@gmail.com)
+
+---
+
+💡 *Sempre em busca de novos desafios e aprendizados. Vamos construir algo incrível juntos!*
