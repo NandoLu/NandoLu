@@ -1,11 +1,6 @@
 # Luiz Fernando Balbino
 
-👋 Olá! Aqui você saberá um pouco sobre mim e por onde entrar em contato comigo!
-
-
-## 📖 Sobre mim
 - 🎓 Sou formado em **Técnico em Informática** pelo **IFSULDEMINAS** e atualmente estou Graduando em **Engenharia de Software** na **FIAP**, tenho grande interesse em desenvolvimento e em aprender novas tecnologias. Sou fascinado em desenvolver soluções próprias.
-
 
 ## 🔧 Tecnologias e Ferramentas
 
