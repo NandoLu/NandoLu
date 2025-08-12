@@ -1,6 +1,6 @@
 # Luiz Fernando Balbino
 
-🎓 Sou formado em **Técnico em Informática** pelo **IFSULDEMINAS** e atualmente estou graduando em **Engenharia de Software** na **FIAP**. Tenho grande interesse em desenvolvimento e sou fascinado por criar soluções próprias. Estou sempre em busca de aprender novas tecnologias — atualmente, estou me aprofundando em temas como **React Native**, **UX Design**, **Power BI**, **Cibersegurança** e **Pydantic AI** através da plataforma Alura.
+🎓 Sou formado em **Técnico em Informática** pelo **IFSULDEMINAS** e atualmente estou graduando em **Engenharia de Software** na **FIAP**. Tenho grande interesse em desenvolvimento e sou fascinado por criar soluções próprias. Estou sempre em busca de aprender novas tecnologias — atualmente, estou me aprofundando em temas como **React Native**, **UX Design**, **Power BI** e **Cibersegurança** através da plataforma Alura.
 
 ## 🔧 Tecnologias e Ferramentas
 
